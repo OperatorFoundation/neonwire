@@ -1,4 +1,4 @@
-module chat
+module neonwire
 
 go 1.25.0
 
